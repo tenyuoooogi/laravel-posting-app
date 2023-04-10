@@ -1,3 +1,26 @@
+# git hub 使い方（連携）
+## git初期設定コマンド手順
+
+- git config --global user.name "あなたのGitHubユーザー名"
+- git config --global user.email "あなたのGitHubメールアドレス"
+- cdでディレクトリを移動する
+- リポジトリを初期化
+- 名前を付けてコミット
+- ブランチの発行
+- git hub　にあげる
+
+
+ （設定確認方法）
+
+git config --global user.name
+
+git config --global user.email
+## git hub　作成手順サイト↓
+https://terakoya.sejuku.net/programs/99/chapters/1288
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
